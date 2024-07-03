@@ -1,0 +1,12 @@
+.season-image{
+    width: 100%;
+    height: 85vh;
+}
+.button{
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    border-style: dashed;
+    color: white;
+    font-weight: 400;
+}
